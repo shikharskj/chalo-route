@@ -1,6 +1,11 @@
 .App {
   text-align: center;
+  background-color: gray;
 }
+
+/* .leaflet-container {
+
+} */
 
 .App-logo {
   height: 40vmin;
